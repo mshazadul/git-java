@@ -9,10 +9,13 @@ public class Class1 {
         // v1.0
     }
     private void f2(){
-        // empty
+        // v2.0
     }
     private void f3() {
         // v3.0 (revised for hotfix)
+    }
+    private void f4() {
+        // v4.0 (complete)
     }
     
 }
