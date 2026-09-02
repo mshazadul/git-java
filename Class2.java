@@ -11,10 +11,8 @@ public class Class2 {
     private void f2(){
         // empty
     }
-    /*
     private void f3(){
         // empty
     }
-        */
 
 }

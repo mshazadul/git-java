@@ -17,10 +17,7 @@ public class HelloWorld {
     private void f2(){
         // empty
     }
-    /*
     private void f3(){
         // empty
     }
-        */
-
 }
